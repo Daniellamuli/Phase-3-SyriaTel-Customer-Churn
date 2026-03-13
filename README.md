@@ -85,9 +85,6 @@ All transformations were fit **only on the training set** and then applied to th
 ---
 
 ## Exploratory Data Analysis (EDA)
-We dove into the data to uncover patterns associated with churn. Here are some key findings:
-
-## Exploratory Data Analysis (EDA)
 
 We explored the dataset to understand how different customer characteristics and behaviors relate to churn. Key insights include:
 
