@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (Recommended: keep data local, don't push large CSVs to GitHub)
+*.csv
+*.zip
+*.json
+!example.json  # Example of how to exclude a specific file if needed
+
+# Environments
+.env
+.venv
+env/
+venv/
+learn-env/
+
+# Operating System files
+.DS_Store
+Thumbs.db
