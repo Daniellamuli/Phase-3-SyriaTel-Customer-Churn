@@ -509,7 +509,12 @@ This deck highlights the key churn drivers, model performance, and strategic ret
 
 ---
 
-## Conclusion
-This project demonstrates how machine learning can help a telecom company predict and mitigate customer churn. By identifying at‑risk customers early, SyriaTel can take targeted actions to improve retention, ultimately saving revenue and strengthening customer relationships. The final Random Forest model balances interpretability and performance, offering a practical tool for the business.
+## Conclusion  
+
+This project demonstrates how machine learning can be applied to proactively predict customer churn in the telecommunications sector. By identifying high-risk customers before they leave, SyriaTel can implement targeted retention strategies that reduce revenue loss and improve customer lifetime value.
+
+Among the evaluated models, an ensemble Voting Classifier provided the best business balance between recall and precision, successfully identifying a majority of potential churners while limiting unnecessary retention interventions.  
+
+Beyond prediction, the analysis highlights key behavioral drivers of churn — including high daytime usage costs and frequent customer service interactions — enabling SyriaTel to move from reactive churn management to a data-driven, proactive retention strategy.
 
 ---
