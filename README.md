@@ -431,7 +431,7 @@ To run this project locally, follow the steps below:
 
 ## 
 
-    git clone https://github.com/your-username/syriatel-churn-prediction.git
+    git clone https://github.com/Daniellamuli/Phase-3-Telecom-Customer-Churn-Prediction-Analytics.git
     cd syriatel-churn-prediction
     
 
@@ -498,14 +498,12 @@ All dependencies and versions are listed in `requirements.txt`.
 
 ## Presentation
 
-## 
+A stakeholder-focused summary of findings and business recommendations is available in two formats:
 
-A stakeholder-focused summary of findings and business recommendations is available in:
+* **[Interactive Google Slides](https://docs.google.com/presentation/d/1GnjIUznnfION3HIZ9gg1iJRyupcPrdhgUi7Mf_zXph8/edit?usp=sharing)**
+* **[Static PDF Version](./Syriatel%20Churn%20Presentation.pdf)**
 
-    presentation/Syriatel_Churn_Presentation.pdf
-    
-
-This deck highlights the key churn drivers, model performance, and strategic retention actions.
+This deck highlights the key churn drivers, model performance, and strategic retention actions tailored for executive decision-making.
 
 ---
 
